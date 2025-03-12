@@ -6,7 +6,7 @@ This is your one-stop shop for all information about Mayhem - Living Flame
 
 # Who are we?
 
-Mayhem is a new raiding guild on Living Flame EU (Season of Discovery). We are a bunch of talented raiders who like to have fun when we raid. We raid semi-casually and looking to grow fast.
+Mayhem is a new semi-hardcore raiding guild on Living Flame EU (Season of Discovery). We are a bunch of talented raiders who like to have fun when we raid. We raid and and are looking to grow fast. We've currently cleared Naxxramas HM2.
 
 ---
 
