@@ -16,6 +16,11 @@ We speak English in Guild, but it doesn't have to be your first language.
 
 ---
 
+# Discord Invite Link
+
+Invite your friends with this link - https://discord.gg/cWgx5fGdsa
+
+---
 # Introductions
 
 Introduce yourself in **#introductions** (if you are not shy!).
