@@ -144,6 +144,11 @@ We are looking for dedicated players to lead raids and sacrifice a little bit of
 
 If you are interested in this, please send me a small message in discord to an officer/GM containing: times you can lead raids, your experience and why you want to be officer. 
 
+# Officer Onboarding
+
+- Promote their main character to Officer in guild
+- Assign the 'Officer' rank in Discord.
+
 # Suggestions
 
 Have you got any suggestions on how to make the guild better? Post in **#suggestions**.
