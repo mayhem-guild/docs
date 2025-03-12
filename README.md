@@ -1,3 +1,13 @@
+# What is this document?
+
+This is your one-stop shop for all information about Mayhem - Living Flame
+
+# Introductions
+
+Introduce yourself in **#introductions** (if you are not shy!).
+
+---
+
 # Raid Schedule
 
 The raid schedule for the coming week is announced on Sundays.
@@ -12,7 +22,7 @@ The raid schedule for the coming week is announced on Sundays.
 
 ---
 
-# Addons
+# Addons needed for Raids
 
 Please ensure you have the following addons installed:
 
@@ -23,7 +33,7 @@ Please ensure you have the following addons installed:
 
 ---
 
-# Consumables
+# Consumables needed for Raids
 
 For AQ/BWL/NAXX, please make sure to check your class consumables on WoWhead and bring them. At the very least, bring:
 
@@ -34,30 +44,20 @@ For AQ/BWL/NAXX, please make sure to check your class consumables on WoWhead and
 
 # Guild Bank
 
-The guild bank is now active - **'Mayhembank'** is the official guild bank for Mayhem. 
-
-- I will publish the list of items in the guild bank here every week. If you want anything, please post in here.
-- Items can be bought from the guild bank for **50% of Auction House price**. The proceeds of purchases will only be used to buy World Buffs.
-
-*Send all runecloth bandages to **'Mayhemcloth'** please, our official bandage vendor.*
+The official guild bank is **'Mayhembank'**, any donations welcome.
+**'Mayhemcloth'** is our official bandage bank. **Send all runecloth donations to 'Mayhemcloth'**
 
 ---
 
 # Crafting
 
-Use **#crafting-couch** to post your juicy recipes.
+If you like to craft and have some rare recipes post them in **#crafting-couch**.
 
 ---
 
 # Suggestions
 
-Make a suggestion in **#suggestions**.
-
----
-
-# Introductions
-
-Introduce yourself in **#introductions** (if you are not shy!).
+Have you got any suggestions on how to make the guild better? Post in **#suggestions**.
 
 ---
 
