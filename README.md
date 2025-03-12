@@ -10,12 +10,14 @@ Mayhem is a new semi-hardcore raiding guild on Living Flame EU (Season of Discov
 
 We are currently operating a private community server. If you have joined the server but can only see the public channels - Please post a message to @Grinwald, @jihgleh @Amarix  and an officer will grant you 'Member' rank. This will allow you to see our chat channels.
 
+Although raiding is our focus, we are open to social members.
+
 ---
 
 # New joiners - what to do first
 
 - Please change your nickname to your main character in the guild, it really helps when it comes to raid invites and assigning you Member rank. 
-- Join the guild in game
+- Join the guild in game, you can ask any member of the guild to invite you.
 - Ask an officer to assign you Member rank in Discord.
 - Now you are ready to raid.
 
