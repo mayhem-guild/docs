@@ -6,19 +6,15 @@ This is your one-stop shop for all information about Mayhem - Living Flame
 
 # Who are we?
 
-Mayhem is a new semi-hardcore raiding guild on Living Flame EU (Season of Discovery). We are a bunch of talented raiders who like to have fun when we raid. We raid and and are looking to grow fast. We've currently cleared Naxxramas HM2. 
-
-We are currently operating a private community server. If you have joined the server but can only see the public channels - Please post a message to @Grinwald, @jihgleh @Amarix  and an officer will grant you 'Member' rank. This will allow you to see our chat channels.
-
-Although raiding is our focus, we are open to social members.
+Mayhem is a new semi-hardcore raiding guild on Living Flame EU (Season of Discovery). We are a bunch of talented raiders who like to have fun when we raid and and are looking to grow fast. We've currently cleared Naxxramas HM2. We are currently operating a private community server.Although raiding is our focus, we are open to social members.
 
 ---
 
 # New joiners - what to do first
 
 - Please change your nickname to your main character in the guild, it really helps when it comes to raid invites and assigning you Member rank. 
-- Join the guild in game, you can ask any member of the guild to invite you.
-- Ask an officer to assign you Member rank in Discord.
+- Join the guild in game, you can ask anyone in the guild to invite you.
+- Ask any officer/GM to assign you Member rank in Discord.
 - Now you are ready to raid.
 
 # Guild Language
