@@ -17,6 +17,13 @@ Mayhem is a new semi-hardcore raiding guild on Living Flame EU (Season of Discov
 - Ask any officer/GM to assign you Member rank in Discord.
 - Now you are ready to raid.
 
+# How to join raids
+
+- Navigate to the raid channels.
+- Find the raid you want to join.
+- Check if you meet the raid requirements (usually posted with the raid)
+- Select your specialization and signup.
+
 # Guild Language
 
 We speak English in Guild, but it doesn't have to be your first language.
