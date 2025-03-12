@@ -13,8 +13,8 @@ Introduce yourself in **#introductions** (if you are not shy!).
 The raid schedule for the coming week is announced on Sundays.
 
 - **Wednesday 20:00** - Naxx Main run (25 person)
-- **Saturday 20:00** - Dragon World Bosses (25 person) - from 12th March
-- **Sunday 20:00** - Dragon World Bosses (25 person) - from 12th March
+- **Saturday 20:00** - Dragon World Bosses (25 person)
+- **Sunday 20:00** - Dragon World Bosses (25 person)
 - **Monday 20:00** - AQ Temple (25 person)
 - **Tuesday 20:00** - Naxx Chill run (25 person)
 
