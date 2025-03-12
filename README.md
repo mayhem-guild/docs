@@ -108,7 +108,7 @@ If you like to craft and have some rare recipes post them in **#crafting-couch**
 
 ## Members
 
-- Your guildies.
+- Your guildies
 
 ## Honoured Members
 
@@ -124,7 +124,7 @@ The status of 'Honoured Member' is reserved for guildies who answer the call of 
 
 ## Guildmaster
 
-- Grinwald.
+- Grinwald
 
 # Applying to be an officer
 
