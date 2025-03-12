@@ -2,6 +2,20 @@
 
 This is your one-stop shop for all information about Mayhem - Living Flame
 
+---
+
+# Who are we?
+
+Mayhem is a new raiding guild on Living Flame EU (Season of Discovery). We are a bunch of talented raiders who like to have fun when we raid.
+
+---
+
+# Guild Language
+
+We speak English in Guild, but it doesn't have to be your first language.
+
+---
+
 # Introductions
 
 Introduce yourself in **#introductions** (if you are not shy!).
@@ -45,19 +59,23 @@ For AQ/BWL/NAXX, please make sure to check your class consumables on WoWhead and
 # Guild Bank
 
 The official guild bank is **'Mayhembank'**, any donations welcome.
-**'Mayhemcloth'** is our official bandage bank. **Send all runecloth donations to 'Mayhemcloth'**
+**'Mayhemcloth'** is our official bandage bank. 
+**Send all runecloth donations to 'Mayhemcloth'**
+
+---
+
+# Guild Bank Requests
+
+To make a request from the guild bank, please follow these steps:
+1. Look at the current guild bank list.
+2. Write a message asking what you want and how many items you need in this channel: **guild-bank-requests**.
+3. Mayhembank will mail you the items at **50% discount** compared to Auction House prices.
 
 ---
 
 # Crafting
 
 If you like to craft and have some rare recipes post them in **#crafting-couch**.
-
----
-
-# Suggestions
-
-Have you got any suggestions on how to make the guild better? Post in **#suggestions**.
 
 ---
 
@@ -78,10 +96,44 @@ Have you got any suggestions on how to make the guild better? Post in **#suggest
 
 ## Loot Rules for Guild Runs
 
-- **SR -> MS -> OS** (No exceptions, ever). Please SR items for your main spec only.
+- **SR -> MS -> OS** (No exceptions). Please preferably SR items for your main spec only.
 
 ## Punishments
 
 - **First offence:** A very stern talking to.
 - **Second offence:** Kick.
 - If offence is very bad, **instant Kick**.
+
+# Ranks
+
+## Members
+
+- Your guildies.
+
+## Honoured Members
+
+The status of 'Honoured Member' is reserved for guildies who answer the call of the guild and make a large and positive contribution to the guild.
+
+- Defourbad
+- Hasslehoff
+
+## Officer
+
+ - Amarix
+ - Jihgleh
+
+## Guildmaster
+
+- Grinwald.
+
+# Applying to be an officer
+
+We are looking for dedicated players to lead raids and sacrifice a little bit of time to the guild.
+
+If you are interested in this, please send me a small message in discord to an officer/GM containing: times you can lead raids, your experience and why you want to be officer. 
+
+# Suggestions
+
+Have you got any suggestions on how to make the guild better? Post in **#suggestions**.
+
+---
